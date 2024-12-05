@@ -1,0 +1,6 @@
+@SRBD_LB3_HostAddress = http://localhost:5147
+
+GET {{SRBD_LB3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
